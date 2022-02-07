@@ -1,6 +1,0 @@
-internal ip  10.128.0.2
-external ip   34.66.207.83
-
-
-
-sql ip :  35.238.193.58
