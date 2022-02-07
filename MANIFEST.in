@@ -1,0 +1,6 @@
+include README.rst
+include tramus/static/css/*
+include tramus/static/dist/*
+include tramus/static/fonts/*
+include tramus/static/js/*
+include tramus/templates/*
